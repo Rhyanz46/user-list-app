@@ -1,10 +1,10 @@
-#Aplikasi Daftar Pengguna
+# Aplikasi Daftar Pengguna
 
-Aplikasi web modern dan responsif yang dibuat khusus untuk menampilkan dan mengelola informasi pengguna. 
+Aplikasi web modern dan responsif yang dibuat khusus untuk menampilkan informasi pengguna. 
 
-## Cara install
+## Cara menggunakan
 
-install di  development server:
+install di development server:
 
 ```bash
 npm run dev
